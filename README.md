@@ -7,7 +7,7 @@
 
 ## [Ogilvy Chile](https://scorpionjav.github.io/ogilvychile) 
 *Web de Agencia de Publicidad*
-[http://www.ogilvychile.cl/](http://www.ogilvychile.cl/)
+> [http://www.ogilvychile.cl/](http://www.ogilvychile.cl/)
 
 ## [TuLoPagas](https://scorpionjav.github.io/maqueta-tulopagas) 
 *Maqueta de Web de Plataforma de Pagos*
