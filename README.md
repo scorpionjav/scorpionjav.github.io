@@ -1,29 +1,24 @@
 
 # Mis Proyectos
 
-## Claro Chile 
+## [Claro Chile](https://scorpionjav.github.io/public-clarosvp/) 
 *Maqueta de Sucursal Virtual Personas*
-https://scorpionjav.github.io/public-clarosvp/
 
-## Ogilvy Chile 
+
+## [Ogilvy Chile](https://scorpionjav.github.io/ogilvychile) 
 *Web de Agencia de Publicidad*
-URL: http://www.ogilvychile.cl/
-Visual: https://scorpionjav.github.io/ogilvychile
+[http://www.ogilvychile.cl/](http://www.ogilvychile.cl/)
 
-## TuLoPagas 
+## [TuLoPagas](https://scorpionjav.github.io/maqueta-tulopagas) 
 *Maqueta de Web de Plataforma de Pagos*
-https://scorpionjav.github.io/maqueta-tulopagas
 
-## CrediRutas 
+## [CrediRutas](https://scorpionjav.github.io/maqueta-credirutas) 
 *Maqueta de Web de Transportes*
-https://scorpionjav.github.io/maqueta-credirutas
 
-## Fonasa Prestadores 
+## [Fonasa Prestadores](https://scorpionjav.github.io/lp-fonasa-prestadores) 
 *Landing Page Informativa*
-https://scorpionjav.github.io/lp-fonasa-prestadores
 > Con detalles, ya que la versión final no pude recuperarla
 
-## Fonasa Afiliados 
+## [Fonasa Afiliados](https://scorpionjav.github.io/lp-fonasa-afiliados) 
 *Landing Page Informativa*
-https://scorpionjav.github.io/lp-fonasa-afiliados
 > Con detalles, ya que la versión final no pude recuperarla
